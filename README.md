@@ -5,5 +5,5 @@ Macros that include
 Periodic Table Userform 
 Userform to select what element properties to show
 
-Future Projects
+Future Projects /
 Normal Distribution Plot
